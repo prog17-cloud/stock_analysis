@@ -1,3 +1,4 @@
+matplotlib
 gunicorn
 yfinance
 streamlit
